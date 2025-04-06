@@ -2,6 +2,6 @@ Description: Designed and implemented a real-time sentiment analysis engine that
 
 Skills Utilized: Natural Language Processing (NLP), Sentiment Analysis, Twitter API, Machine Learning, Data Processing, Python, Real-time Data, Text Classification, Data Visualization.
 
-Impact: Enabled businesses to monitor and respond to public sentiment in real-time, leading to improved brand reputation and customer engagement. Helped identify emerging trends and sentiments that informed marketing and PR strategies.
+Impact: Enabled businesses to monitor and respond to public sentiment in real-time, leading to improved brand reputation and customer engagement. Helped identify emerging trends and sentiments that informed marketing and PR strategies
 
 ![image_alt](https://github.com/Nitin9304/Sentiments-Evaluation-Classification-of-Twitter-Information-using-Machine-Learning-Techniques/blob/73fce831bf6265f14780b34d6a8c1eddee42885d/Screenshot%202025-04-06%20222629.png)
