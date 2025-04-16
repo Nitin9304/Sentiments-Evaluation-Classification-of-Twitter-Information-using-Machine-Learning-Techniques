@@ -8,4 +8,4 @@ Impact: Enabled businesses to monitor and respond to public sentiment in real-ti
 
 ![image_alt](https://github.com/Nitin9304/Sentiments-Evaluation-Classification-of-Twitter-Information-using-Machine-Learning-Techniques/blob/73fce831bf6265f14780b34d6a8c1eddee42885d/Screenshot%202025-04-06%20222629.png)
 
-Here, In above  figure it shows that the polarity(or we can say rating) of Persons..
+Here, In above  figure it shows that the polarity(or we can say rating) of Persons.
