@@ -4,6 +4,8 @@ Skills Utilized: Natural Language Processing (NLP), Sentiment Analysis, Twitter 
 
 Impact: Enabled businesses to monitor and respond to public sentiment in real-time, leading to improved brand reputation and customer engagement. Helped identify emerging trends and sentiments that informed marketing and PR strategies.
 
+https://github.com/Nitin9304/Sentiments-Evaluation-Classification-of-Twitter-Information-using-Machine-Learning-Techniques/issues/1
+
 
 
 ![image_alt](https://github.com/Nitin9304/Sentiments-Evaluation-Classification-of-Twitter-Information-using-Machine-Learning-Techniques/blob/6c4edd8ea6242fa485bf6b230076e9cb5e2f1417/Sentiment%20An.gif)
